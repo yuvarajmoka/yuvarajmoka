@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @yuvarajmoka
+ a=int(input())
+b=int(input())
+print('addition is',a+b)
+print('subtraction is',a-b)
+print('division is',a/b)
+print('multiplication is',a*b)
+print('modulo is',a%b)
+print('exponentiation is',a**b)
+print('floor division is',a//b)
